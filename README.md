@@ -22,5 +22,4 @@ House pricing is influenced by many factors such as area, number of bedrooms, lo
 
 ---
 
-## 📁 Project Structure
 
